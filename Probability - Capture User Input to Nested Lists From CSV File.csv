@@ -1,0 +1,15 @@
+Index,Colour,Type,Origin,Stolen
+1,Red,Sports,Domestic,No
+2,Red,Sports,Imported,No
+3,Blue,Sports,Domestic,Yes
+4,Yellow,Sports,Domestic,Yes
+5,Yellow,SUV,Domestic,Yes
+6,Yellow,SUV,Imported,No
+7,Blue,SUV,Imported,Yes
+8,Red,Sports,Domestic,No
+9,Red,SUV,Imported,Yes
+10,Yellow,SUV,Imported,Yes
+11,Red,SUV,Domestic,Yes
+12,Blue,Sports,Domestic,Yes
+13,Blue,SUV,Imported,Yes
+14,Yellow,Sports,Domestic,No

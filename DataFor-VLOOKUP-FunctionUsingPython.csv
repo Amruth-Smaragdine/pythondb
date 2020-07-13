@@ -1,0 +1,51 @@
+S.No,Supplier ID,Part Number,Part Name,Part Price,Status
+1,SP301,A001,Water Pump,$68.39,In Stock
+2,SP302,A002,Alternator,$380.73,In Stock
+3,SP303,A003,Air Filter,$15.49,In Stock
+4,SP304,A004,Wheel Bearing,$35.16,In Stock
+5,SP305,A005,Muffler,$160.23,In Stock
+6,SP306,A006,Oil Pan,$101.89,Out Of Stock
+7,SP307,A007,Brake Pads,$65.99,In Stock
+8,SP308,A008,Brake Rotors,$85.73,Out Of Stock
+9,SP309,A009,Headlight,$35.19,In Stock
+10,SP310,A010,Brake Cable,$15.49,In Stock
+11,SP311,A011,Strut,$45.29,In Stock
+12,SP312,A012,Drive Shaft,$185.36,In Stock
+13,SP313,A013,CV Boot Kit,$26.27,In Stock
+14,SP314,A014,Oil Pump,$46.99,In Stock
+15,SP315,A015,Oil Filter,$4.39,In Stock
+16,SP316,A016,Fuel Filter,$12.89,In Stock
+17,SP317,A017,Tie Rod End,$18.73,In Stock
+18,SP318,A018,Ball Joint,$24.18,In Stock
+19,SP319,A019,Steering Rack,$285.33,Out Of Stock
+20,SP320,A020,Piston Ring,$45.99,Out Of Stock
+21,SP321,A021,Piston Ring,$65.78,In Stock
+22,SP322,A022,Head Gasket Set,$145.63,In Stock
+23,SP323,A023,Fuel Pump,$136.43,In Stock
+24,SP324,A024,Til Light Lens,$45.19,In Stock
+25,SP325,A025,Signal Flasher,$6.53,In Stock
+26,SP326,A026,Fuses,$8.29,In Stock
+27,SP327,A027,Shock,$35.44,In Stock
+28,SP328,A028,Speedometer,$18.89,In Stock
+29,SP329,A029,Lug Nut,$3.43,In Stock
+30,SP330,A030,Clutch Kit,$230.14,In Stock
+31,SP331,A031,Value Guides,$6.44,In Stock
+32,SP332,A032,Valve Seals,$2.09,In Stock
+33,SP333,A033,Power Steering,$360.32,In Stock
+34,SP334,A034,AC Pump,$425.36,In Stock
+35,SP335,A035,Brake Hose,$35.76,In Stock
+36,SP336,A036,Radiator,$276.32,Out Of Stock
+37,SP337,A037,Radiator Hose,$34.10,In Stock
+38,SP338,A038,Traction Bar,$185.09,In Stock
+39,SP339,A039,Bumper,$195.91,In Stock
+40,SP340,A040,Rear View Mirror,$75.43,In Stock
+41,SP341,A041,Fender,$359.06,In Stock
+42,SP342,A042,Grill,$65.91,In Stock
+43,SP343,A043,Marker Light,$35.62,In Stock
+44,SP344,A044,Hub Cap,$43.05,In Stock
+45,SP345,A045,Tail Pipe,$36.99,In Stock
+46,SP346,A046,Tail Pipe Bracket,$4.18,In Stock
+47,SP347,A047,Engine Drain Pipe,$7.07,In Stock
+48,SP348,A048,Oil Pan,$76.29,In Stock
+49,SP349,A049,Oil Pan Gasket,$12.82,In Stock
+50,SP350,A050,Fan Belt,$13.72,In Stock
